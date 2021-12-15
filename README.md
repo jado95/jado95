@@ -36,7 +36,7 @@
 ---
 
 ### GitHub Stats
-![jado95](https://github-readme-stats.vercel.app/api?username=jado95&show_icons=true&theme=radical)
+![jado95](https://github-readme-stats.vercel.app/api?username=jado95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![jado95](https://github-readme-stats.vercel.app/api?username=jado95&show_icons=true&theme=react&count_private=true)
 ![jado95](https://github-readme-stats.vercel.app/api/top-langs/?username=jado95&show_icons=true&theme=react&count_private=true)
 ![jado95](https://github-readme-streak-stats.herokuapp.com/?user=jado95&show_icons=true&theme=react&count_private=true)
