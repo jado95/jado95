@@ -21,6 +21,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2536](https://github.com/OCA/l10n-italy/issues/2536) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#2536](https://github.com/OCA/l10n-italy/pull/2536) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#1](https://github.com/ApuliaSoftware/iban_invoice/issues/1) in [ApuliaSoftware/iban_invoice](https://github.com/ApuliaSoftware/iban_invoice)
+4. 🗣 Commented on [#2385](https://github.com/OCA/l10n-italy/issues/2385) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#2450](https://github.com/OCA/l10n-italy/issues/2450) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---
