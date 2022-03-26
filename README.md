@@ -21,11 +21,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1942](https://github.com/OCA/sale-workflow/pull/1942) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
-2. 🗣 Commented on [#1865](https://github.com/OCA/sale-workflow/issues/1865) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
-3. 🗣 Commented on [#1865](https://github.com/OCA/sale-workflow/issues/1865) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
-4. 🎉 Merged PR [#19](https://github.com/DinamicheAziendali/graphite-sh/pull/19) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
-5. 💪 Opened PR [#19](https://github.com/DinamicheAziendali/graphite-sh/pull/19) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+1. 🎉 Merged PR [#27](https://github.com/DinamicheAziendali/graphite-sh/pull/27) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+2. 💪 Opened PR [#27](https://github.com/DinamicheAziendali/graphite-sh/pull/27) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+3. 💪 Opened PR [#26](https://github.com/DinamicheAziendali/graphite-sh/pull/26) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+4. 🎉 Merged PR [#25](https://github.com/DinamicheAziendali/graphite-sh/pull/25) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+5. 💪 Opened PR [#25](https://github.com/DinamicheAziendali/graphite-sh/pull/25) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
 <!--END_SECTION:activity-->
 
 ---
