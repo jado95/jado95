@@ -21,11 +21,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#468](https://github.com/OCA/timesheet/issues/468) in [OCA/timesheet](https://github.com/OCA/timesheet)
-2. ❗️ Opened issue [#88235](https://github.com/odoo/odoo/issues/88235) in [odoo/odoo](https://github.com/odoo/odoo)
-3. 🎉 Merged PR [#27](https://github.com/DinamicheAziendali/graphite-sh/pull/27) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
-4. 💪 Opened PR [#27](https://github.com/DinamicheAziendali/graphite-sh/pull/27) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
-5. 💪 Opened PR [#26](https://github.com/DinamicheAziendali/graphite-sh/pull/26) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+1. ❌ Closed PR [#30](https://github.com/DinamicheAziendali/graphite-sh/pull/30) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+2. 💪 Opened PR [#30](https://github.com/DinamicheAziendali/graphite-sh/pull/30) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+3. 🗣 Commented on [#468](https://github.com/OCA/timesheet/issues/468) in [OCA/timesheet](https://github.com/OCA/timesheet)
+4. ❗️ Opened issue [#88235](https://github.com/odoo/odoo/issues/88235) in [odoo/odoo](https://github.com/odoo/odoo)
+5. 🎉 Merged PR [#27](https://github.com/DinamicheAziendali/graphite-sh/pull/27) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
 <!--END_SECTION:activity-->
 
 ---
