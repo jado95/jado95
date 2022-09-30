@@ -21,9 +21,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2889](https://github.com/OCA/l10n-italy/pull/2889) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#2889](https://github.com/OCA/l10n-italy/pull/2889) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🎉 Merged PR [#38](https://github.com/DinamicheAziendali/graphite-sh/pull/38) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+1. 🗣 Commented on [#1905](https://github.com/OCA/l10n-italy/issues/1905) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. ❌ Closed PR [#2889](https://github.com/OCA/l10n-italy/pull/2889) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#2889](https://github.com/OCA/l10n-italy/pull/2889) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 4. 💪 Opened PR [#38](https://github.com/DinamicheAziendali/graphite-sh/pull/38) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
 5. 🎉 Merged PR [#37](https://github.com/DinamicheAziendali/graphite-sh/pull/37) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
 <!--END_SECTION:activity-->
