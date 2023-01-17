@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ Recent Github Activity
+### ⚡ Recent  Github Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3054](https://github.com/OCA/l10n-italy/issues/3054) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
