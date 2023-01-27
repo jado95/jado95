@@ -21,11 +21,11 @@
 ### ⚡ Recent  Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#952](https://github.com/OCA/manufacture/issues/952) in [OCA/manufacture](https://github.com/OCA/manufacture)
-2. ❗️ Closed issue [#3054](https://github.com/OCA/l10n-italy/issues/3054) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#3054](https://github.com/OCA/l10n-italy/issues/3054) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. ❗️ Opened issue [#3054](https://github.com/OCA/l10n-italy/issues/3054) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#2967](https://github.com/OCA/l10n-italy/issues/2967) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#111098](https://github.com/odoo/odoo/pull/111098) in [odoo/odoo](https://github.com/odoo/odoo)
+2. ❌ Closed PR [#111097](https://github.com/odoo/odoo/pull/111097) in [odoo/odoo](https://github.com/odoo/odoo)
+3. 💪 Opened PR [#111097](https://github.com/odoo/odoo/pull/111097) in [odoo/odoo](https://github.com/odoo/odoo)
+4. ❗️ Opened issue [#952](https://github.com/OCA/manufacture/issues/952) in [OCA/manufacture](https://github.com/OCA/manufacture)
+5. ❗️ Closed issue [#3054](https://github.com/OCA/l10n-italy/issues/3054) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---
