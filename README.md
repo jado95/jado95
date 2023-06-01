@@ -25,7 +25,7 @@
 2. 💪 Opened PR [#3283](https://github.com/OCA/l10n-italy/pull/3283) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 3. 🗣 Commented on [#1250](https://github.com/OCA/account-invoicing/issues/1250) in [OCA/account-invoicing](https://github.com/OCA/account-invoicing)
 4. 🗣 Commented on [#880](https://github.com/OCA/contract/issues/880) in [OCA/contract](https://github.com/OCA/contract)
-5. ❗️ Opened issue [#3251](https://github.com/OCA/l10n-italy/issues/3251) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. ❗ Opened issue [#3251](https://github.com/OCA/l10n-italy/issues/3251) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---
