@@ -21,11 +21,11 @@
 ### ⚡ Recent  Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#631](https://github.com/OCA/delivery-carrier/pull/631#issuecomment-1757750952) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
-2. ❗ Opened issue [#24](https://github.com/OCA/agreement/issues/24) in [OCA/agreement](https://github.com/OCA/agreement)
-3. 🗣 Commented on [#1028](https://github.com/OCA/account-financial-reporting/pull/1028#issuecomment-1645387187) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
-4. 🗣 Commented on [#3030](https://github.com/OCA/l10n-italy/issues/3030#issuecomment-1604342450) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#1250](https://github.com/OCA/account-invoicing/issues/1250#issuecomment-1511102148) in [OCA/account-invoicing](https://github.com/OCA/account-invoicing)
+1. 💪 Opened PR [#629](https://github.com/OCA/operating-unit/pull/629) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+2. ❗ Opened issue [#628](https://github.com/OCA/operating-unit/issues/628) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+3. 🗣 Commented on [#631](https://github.com/OCA/delivery-carrier/pull/631#issuecomment-1757750952) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
+4. ❗ Opened issue [#24](https://github.com/OCA/agreement/issues/24) in [OCA/agreement](https://github.com/OCA/agreement)
+5. 🗣 Commented on [#1028](https://github.com/OCA/account-financial-reporting/pull/1028#issuecomment-1645387187) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
 <!--END_SECTION:activity-->
 
 ---
